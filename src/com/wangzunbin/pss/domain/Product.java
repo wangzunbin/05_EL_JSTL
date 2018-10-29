@@ -10,6 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class Product {
 	private Long id; // 商品编号
 	private String productName; // 商品名称
